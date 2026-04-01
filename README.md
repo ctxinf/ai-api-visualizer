@@ -8,7 +8,7 @@
 
 **🌐Try it:**
 1. (github pagas)  https://ctxinf.github.io/ai-api-visualizer/#/ 
-2. https://ai-api-visualizer.api2o.com 
+2. https://ai-api-visualizer.ctxinf.com 
 
 
 

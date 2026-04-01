@@ -7,7 +7,7 @@
 
 
 **🌐Try it:**
-1. (github pagas)  https://slow-groovin.github.io/ai-api-visualizer/#/ 
+1. (github pagas)  https://ctxinf.github.io/ai-api-visualizer/#/ 
 2. https://ai-api-visualizer.api2o.com 
 
 
@@ -21,9 +21,9 @@
 
 
 <div>
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/slow-groovin/ai-api-visualizer"><img src="https://vercel.com/button" alt="Deploy with Vercel" style=""></a>
-<a href="https://deploy.workers.cloudflare.com/?url=https://github.com/slow-groovin/ai-api-visualizer"><img src="https://camo.githubusercontent.com/aa3de9a0130879a84691a2286f5302105d5f3554c5d0af4e3f2f24174eeeea25/68747470733a2f2f6465706c6f792e776f726b6572732e636c6f7564666c6172652e636f6d2f627574746f6e" alt="Deploy to Cloudflare Workers" style="height: 34px;"></a>
+<a href="https://vercel.com/new/clone?repository-url=https://github.com/ctxinf/ai-api-visualizer"><img src="https://vercel.com/button" alt="Deploy with Vercel" style=""></a>
+<a href="https://deploy.workers.cloudflare.com/?url=https://github.com/ctxinf/ai-api-visualizer"><img src="https://camo.githubusercontent.com/aa3de9a0130879a84691a2286f5302105d5f3554c5d0af4e3f2f24174eeeea25/68747470733a2f2f6465706c6f792e776f726b6572732e636c6f7564666c6172652e636f6d2f627574746f6e" alt="Deploy to Cloudflare Workers" style="height: 34px;"></a>
 </div>
 
 
-This project was derived from the project: https://github.com/slow-groovin/mitmproxy-llm-better-view
+This project was derived from the project: https://github.com/ctxinf/mitmproxy-llm-better-view
